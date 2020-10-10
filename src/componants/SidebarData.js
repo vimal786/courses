@@ -11,6 +11,13 @@ import * as IoIcons from 'react-icons/io'
     icon: <AiIcons.AiFillHome />,
     cName: 'nav-text'
   },
+  
+  {
+    title: 'Courses',
+    path: '/courses',
+    icon: <IoIcons.IoMdHelpCircle />,
+    cName: 'nav-text'
+  },
   {
     title: 'Reports',
     path: '/reports',
@@ -33,12 +40,6 @@ import * as IoIcons from 'react-icons/io'
     title: 'Search',
     path: '/search',
     icon: <FaIcons.FaEnvelopeOpenText />,
-    cName: 'nav-text'
-  },
-  {
-    title: 'Courses',
-    path: '/courses',
-    icon: <IoIcons.IoMdHelpCircle />,
     cName: 'nav-text'
   }
     
