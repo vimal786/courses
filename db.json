@@ -1,0 +1,31 @@
+{
+"courses": [
+  {
+    "id": 1,
+    "name": "PHP",
+    "username": "vimal",
+    "email": "vimalimr@gmail.com",
+    "phone": "9540891572",
+    "website": "hildegard.orglll",
+    "Details": "wwwwpwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+  },
+  {
+      "id": 2,
+      "name": "React",
+      "username": "vimal",
+      "email": "vimalimr@gmail.com",
+      "phone": "9540891572",
+      "website": "hildegard.orglll",
+      "Details": "wwwwpwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+  },
+  {
+      "id": 3,
+      "name": "JS",
+      "username": "vimal",
+      "email": "vimalimr@gmail.com",
+      "phone": "9540891572",
+      "website": "hildegard.orglll",
+      "Details": "wwwwpwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+  }
+]
+}
